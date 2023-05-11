@@ -1,5 +1,3 @@
-## Screenshots
-
 ![Project Screenshot](./demoPic.PNG)
 # Math Calculation Project in C++
 
